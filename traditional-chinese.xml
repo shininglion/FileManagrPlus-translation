@@ -701,92 +701,92 @@
     <string name="hint_document_tree_steps_3">3. 點擊下方的「選擇」按鈕</string>
 
     <!-- The selected folder is not the root folder(top folder) of the sd card  -->
-    <string name="document_tree_failed_not_root_sdcard">"选定的文件夹不是SD卡的最上一级目录. 请重试一下."</string>
-    <string name="document_tree_failed_not_sdcard">"选定的存储不是SD卡. 请重试一下."</string>
+    <string name="document_tree_failed_not_root_sdcard">選擇的資料夾不是 SD 卡的最上層目錄，請重試</string>
+    <string name="document_tree_failed_not_sdcard">選擇的儲存空間不是 SD 卡，請重試</string>
     <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
-    <string name="document_tree_for_operation_sdcard">"为了操作您需要允许访问SD卡."</string>
+    <string name="document_tree_for_operation_sdcard">需要您的授權，才能存取 SD 卡</string>
 
-    <string name="document_tree_failed_not_root_usb">"选定的文件夹不是USB存储的最上一级目录. 请重试一下."</string>
-    <string name="document_tree_failed_not_usb">"选定的存储不是USB存储. 请重试一下."</string>
+    <string name="document_tree_failed_not_root_usb">選擇的資料夾 USB 儲存空間的最上層目錄，請重試</string>
+    <string name="document_tree_failed_not_usb">選擇的儲存空間不是 USB，請重試</string>
     <!-- Message of dialog asking user to allow access to sd card for the operation like delete, cut, pate -->
-    <string name="document_tree_for_operation_usb">"为了操作您需要允许访问USB."</string>
+    <string name="document_tree_for_operation_usb">需要您的授權，才能存取 USB 儲存空間</string>
 
-    <string name="include_system_apps">"所选应用程序里包括系统应用程序."</string>
-    <string name="file_count">"文件夹: %1$d, 文件: %2$d"</string>
-    <string name="delete_file_count">"文件夹: %1$d, 文件: %2$d, 大小: %3$s"</string>
-    <string name="delete_file_size">"大小: %s"</string>
-    <string name="prepare_paste_information">"准备粘贴信息中..."</string>
-    <string name="preparing">"准备中..."</string>
+    <string name="include_system_apps">您所選擇的應用程式包含系統用的應用程式</string>
+    <string name="file_count">"資料夾： %1$d，檔案： %2$d</string>
+    <string name="delete_file_count">資料夾： %1$d，檔案： %2$d，大小：%3$s</string>
+    <string name="delete_file_size">"大小： %s</string>
+    <string name="prepare_paste_information">準備移動檔案中 ...</string>
+    <string name="preparing">準備中 ...</string>
 
-    <string name="search_hint">"搜索"</string>
-    <string name="search_settings_description">"搜索文件"</string>
-    <string name="search_location">"搜索: %1$s"</string>
+    <string name="search_hint">搜尋</string>
+    <string name="search_settings_description">搜尋檔案</string>
+    <string name="search_location">搜尋：%1$s</string>
     
-    <string name="no_application">"未找到应用程序"</string>
-    <string name="requested_file_not_found">"找不到请求的文件."</string>
+    <string name="no_application">找不到符合的應用程式</string>
+    <string name="requested_file_not_found">找不到符合的檔案</string>
     
-    <string name="noti_server_is_on">"FTP服务器正在运行"</string>
+    <string name="noti_server_is_on">FTP 伺服器正在運作當中</string>
     
-    <string name="drawer_open">"打开侧边栏"</string>
-    <string name="drawer_close">"关闭侧边栏"</string>
+    <string name="drawer_open">顯示導覽列</string>
+    <string name="drawer_close">關閉導覽列</string>
     
-    <string name="settings_view">"视图"</string>
-    <string name="settings_sort">"排序"</string>
-    <string name="settings_sortby">"排序方式"</string>
-    <string name="settings_etc">"其他"</string>
-    <string name="settings_hidden">"显示隐藏文件"</string>
+    <string name="settings_view">顯示</string>
+    <string name="settings_sort">排列</string>
+    <string name="settings_sortby">排列方式</string>
+    <string name="settings_etc">其他</string>
+    <string name="settings_hidden">顯示隱藏檔</string>
     
-    <string name="rate_title">"评论此应用程序"</string>
-    <string name="rate_message">"如果你喜欢这应用程序，请给我们5星级."</string>
+    <string name="rate_title">為 App 評分</string>
+    <string name="rate_message">若您喜歡我們的 App，請在 Google Play 給我們 5 顆星</string>
     <!-- rate options -->
-   	<string name="rate_yes">"评估5★"</string>
+   	<string name="rate_yes">給我們 5 顆星</string>
     <!-- rate options -->
-    <string name="rate_not_now">"暂时不"</string>
+    <string name="rate_not_now">鎮時不要</string>
     <!-- rate options -->
-    <string name="rate_never">"决不"</string>
+    <string name="rate_never">不再顯示</string>
     
-    <string name="back_again_to_exit">"再次按返回按钮退出"</string>
-    <string name="download_app_to_open_files">"下载%1$s打开%2$s文件"</string>
-    <string name="download_action">"下载"</string>
+    <string name="back_again_to_exit">再按一次離開</string>
+    <string name="download_app_to_open_files">"下載 %1$s 以便開啟 %2$s</string>
+    <string name="download_action">下載</string>
 
     <!-- ex: Main Storage is full (98%) or Sd card is full (95%) -->
-    <string name="storage_is_full">"%1$s空间已满 (%2$s)"</string>
-    <string name="storage_clean_up">"清除"</string>
-    <string name="not_enougth_space">"您的%s空间不足"</string>
-    <string name="storage_delete_unnecessary_files">"删除%s上不必要的文件"</string>
+    <string name="storage_is_full">%1$s 空間已使用 %2$s</string>
+    <string name="storage_clean_up">清理</string>
+    <string name="not_enougth_space">%s 儲存空間不足</string>
+    <string name="storage_delete_unnecessary_files">删除 %s 上不必要的檔案</string>
 
-    <string name="file_is_downloaded">"'%s'已下载"</string> <!-- abc.jpg is downloaded -->
-    <string name="open_download_folder">"打开下载文件夹"</string>
+    <string name="file_is_downloaded">'%s' 已下載</string> <!-- abc.jpg is downloaded -->
+    <string name="open_download_folder">開啟資料夾</string>
 
-    <string name="photos_today">"今天拍摄的%d张照片"</string> <!-- 10 photos taken today -->
-    <string name="see_photos_today">"看照片"</string>
+    <string name="photos_today">今天拍攝的 %d 張照片</string> <!-- 10 photos taken today -->
+    <string name="see_photos_today">看照片</string>
 
-    <string name="notifications">"提示音"</string>
-    <string name="noti_new_photos">"新照片"</string>
-    <string name="noti_storage_full">"存储已满"</string>
-    <string name="noti_download">"下载"</string>
+    <string name="notifications">通知</string>
+    <string name="noti_new_photos">新照片</string>
+    <string name="noti_storage_full">空間已滿</string>
+    <string name="noti_download">下載</string>
 
     <plurals name="compressed_items_plurals">
-        <item quantity="one">"总共%1$d项压缩为%2$s"</item>
-        <item quantity="other">"总共%1$d项压缩为%2$s"</item>
+        <item quantity="one">%1$d 的資料已壓縮為 %2$s</item>
+        <item quantity="other">%1$d 的資料已壓縮為 %2$s</item>
     </plurals>
     <plurals name="extracted_items_plurals">
-        <item quantity="one">"总共%1$d项解压到%2$s"</item>
-        <item quantity="other">"总共%1$d项解压到%2$s"</item>
+        <item quantity="one">%1$d 的資料已解壓縮到 %2$s</item>
+        <item quantity="other">%1$d 的資料已解壓縮到 %2$s</item>
     </plurals>
 
     <!-- Result message for moving single item to other folder -->
-    <string name="moved_single_item">"'%1$s'移动到%2$s"</string>
+    <string name="moved_single_item">正將 %1$s 移動到%2$s</string>
     <plurals name="moved_items_plurals">
-        <item quantity="one">"总共%1$d项移动到%2$s"</item>
-        <item quantity="other">"总共%1$d项移动到%2$s"</item>
+        <item quantity="one">共移動 %1$d 個檔案到 %2$s</item>
+        <item quantity="other">共移動 %1$d 個檔案到 %2$s</item>
     </plurals>
 
     <!-- Result message for copying single item to other folder -->
-    <string name="copied_single_item">"'%1$s'复制到%2$s"</string>
+    <string name="copied_single_item">正將 %1$s 複製到 %2$s</string>
     <plurals name="copied_items_plurals">
-        <item quantity="one">"总共%1$d项复制到%2$s"</item>
-        <item quantity="other">"总共%1$d项复制到%2$s"</item>
+        <item quantity="one">共複製 %1$d 的檔案 %2$s</item>
+        <item quantity="other">共複製 %1$d 的檔案 %2$s</item>
     </plurals>
 
     <!-- Result message for deleting single item -->
@@ -806,92 +806,91 @@
 	</plurals>
 
     <!-- label for unknown number of items. "1 item", "2 items" for know number. "- items" for unknown numbers -->
-    <string name="num_items_unknown">"- 项"</string>
+    <string name="num_items_unknown"> - 項</string>
 
     <!-- sort options -->
-    <string name="sort_no_sort">"没有排序"</string>
+    <string name="sort_no_sort">不排序</string>
     <!-- sort options -->
-    <string name="sort_name_ascend">"名称 ↑"</string>
+    <string name="sort_name_ascend">檔名 ↑</string>
     <!-- sort options -->
-    <string name="sort_name_descend">"名称 ↓"</string>
+    <string name="sort_name_descend">檔名 ↓</string>
     <!-- sort options -->
-    <string name="sort_size_ascend">"大小 ↑"</string>
+    <string name="sort_size_ascend">大小 ↑</string>
     <!-- sort options -->
-    <string name="sort_size_descend">"大小 ↓"</string>
+    <string name="sort_size_descend">大小 ↓</string>
     <!-- sort options -->
-    <string name="sort_date_ascend">"时间 ↑"</string>
+    <string name="sort_date_ascend">建立時間 ↑</string>
     <!-- sort options -->
-    <string name="sort_date_descend">"时间 ↓
-"</string>
+    <string name="sort_date_descend">建立時間 ↓</string>
     <!-- sort options : File type -->
-    <string name="sort_type_ascend">"类型 ↑"</string>
+    <string name="sort_type_ascend">檔案類型 ↑</string>
     <!-- sort options : File type -->
-    <string name="sort_type_descend">"类型 ↓"</string>
+    <string name="sort_type_descend">檔案類型 ↓</string>
 
     <!-- error message -->
-    <string name="error">"错误"</string>
+    <string name="error">錯誤</string>
 
     <!-- error message when file not found -->
-    <string name="error_file_not_found">"找不到文件"</string>
+    <string name="error_file_not_found">找不到檔案</string>
 
     <!-- error message when not enough storage -->
-    <string name="error_not_enough_storage">"存储空间不足"</string>
+    <string name="error_not_enough_storage">儲存空間不足</string>
 
     <!-- error message when app could not save the file -->
-    <string name="error_file_save">"无法保存文件"</string>
+    <string name="error_file_save">無法儲存檔案</string>
 
     <!-- error messaga when app could not load the file -->
-    <string name="error_file_load">"无法加载文件"</string>
+    <string name="error_file_load">無法讀取檔案</string>
 
     <!-- error message when app could not update the archive file(compressed file). -->
-    <string name="failed_to_update_archive">"无法更新归档文件"</string>
+    <string name="failed_to_update_archive">無法更新壓縮檔</string>
 
     <!-- error message for the android 4.4 users. Writie to the sdcard in 3rd party apps is not possible in the android 4.4 -->
-    <string name="error_kitkat_sdcard">"保存SD卡是由安卓4.4系统所限制的"</string>
+    <string name="error_kitkat_sdcard">無法在 Android 4.4 中修改 SD 中的資料</string>
 
     <!-- error message -->
-    <string name="error_too_large_to_open">"文件容量太大，无法打开."</string>
+    <string name="error_too_large_to_open">檔案過大，無法開啟</string>
 
     <!-- error message for network error -->
-    <string name="error_network">"发生网络错误."</string>
+    <string name="error_network">網路發生問題</string>
 
     <!-- error message -->
-    <string name="error_usb_removed">"USB存储已删除."</string>
+    <string name="error_usb_removed">USB 裝置已卸載</string>
 
     <!-- error message -->
-    <string name="no_apps_to_open_file">"没有安装可打开此类型的文件的应用程序"</string>
+    <string name="no_apps_to_open_file">找不到可打開此類型檔案的應用程式</string>
 
     <!-- error message -->
-    <string name="error_not_text_file">"不是文本文件"</string>
+    <string name="error_not_text_file">不是文字檔案</string>
 
     <!-- Error message in search. App could not show search result because error was raised in search. -->
-    <string name="error_file_search">"无法搜索文件"</string>
+    <string name="error_file_search">檔案搜尋失敗</string>
 
     <!-- tried to open archive file (ex. zip, rar, ...) but it could not be opened because it's damaged or in unknown format -->
-    <string name="archive_is_damaged">"压缩的文件格式未知或损坏"</string>
+    <string name="archive_is_damaged">未知格式的壓縮檔、或是壓縮檔已損毀</string>
 
     <!-- error message for file or directory is corrupted -->
-    <string name="file_corrupted">"该文件或目录已损坏和不可读取"</string>
+    <string name="file_corrupted">檔案或資料夾讀取失敗</string>
     <!-- ex) NTFS file system is not supported -->
-    <string name="not_supported_filesystem">"%s文件系统是不支持的."</string>
+    <string name="not_supported_filesystem">不支援 %s 檔案系統</string>
     <!-- external storage device (ex: USB Mass storage) is not recognized, so can't open -->
-    <string name="storage_device_not_recognized">"存储设备无法认识"</string>
+    <string name="storage_device_not_recognized">無法便是的儲存裝置</string>
 
     <!-- warning over mobile network -->
-    <string name="warning_mobile_network">"总大小为%s. 您确定要继续通过移动网络进行操作吗？"</string>
+    <string name="warning_mobile_network">總大小為 %s，確定要使用行動網路繼續操作嗎？</string>
 
-    <string name="google_account_not_found">"Google帐户\"%s\"在设备中找不到"</string>
-    <string name="could_not_access_account">"无法连接帐户信息"</string>
+    <string name="google_account_not_found">找不到 Google 帳號</string>
+    <string name="could_not_access_account">無法取得帳號資訊</string>
 
 
     <!-- settings app: sdcard_settings_not_present_status default -->
-    <string name="no_sdcard">"没有SD卡"</string>
+    <string name="no_sdcard">找不到 SD 卡</string>
     <!-- settings app: sdcard_settings_mass_storage_status default -->
-    <string name="sdcard_used_as_mass_storage">"SD卡用作大容量存储设备."</string>
+    <string name="sdcard_used_as_mass_storage">SD 卡已被作為儲存裝置使用</string>
     <!-- settings app: sdcard_settings_not_present_status nosdcard -->
-    <string name="usb_storage_no_mount">"主存储未安装."</string>
+    <string name="usb_storage_no_mount">內建儲存空間未掛載</string>
     <!-- settings app: sdcard_settings_mass_storage_status nosdcard -->
-    <string name="usb_storage_used_as_mass_storage">"主存用作大容量存储设备."</string>
+    <string name="usb_storage_used_as_mass_storage">內建儲存哭間已被作為儲存裝置使用</string>
 
     <!-- Not Used Anymore -->
     <string name="clipboard">"%1$s %2$s和%3$d等文件"</string>
